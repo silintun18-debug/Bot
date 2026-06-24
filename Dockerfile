@@ -1,4 +1,4 @@
-# သတ်မှတ်ချက်အရ ပေါ့ပါးပြီး အဆင်ပြေမည့် Python Base Image ကို သုံးပါမည်
+# သတ်မှတ်ချက်အရ ပေါ့ပါးပြီ အဆင်ပြေမည့် Python Base Image ကို သုံးပါမည်
 FROM python:3.10-slim
 
 # စနစ်အတွက် လိုအပ်သော Linux packages များနှင့် OpenCV/ddddocr အတွက် လိုအပ်သော libraries များကို သွင်းပါမည်
