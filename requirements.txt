@@ -2,3 +2,4 @@ pyTelegramBotAPI
 aiohttp
 opencv-python-headless
 python-dotenv
+ddddocr
