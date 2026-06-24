@@ -27,4 +27,4 @@ COPY . .
 EXPOSE 8080
 
 # Bot စတင် Run မည့် Command ဖြစ်ပါသည် (သင့်ဖိုင်နာမည် kok9.py နှင့် ကိုက်ညီအောင် ထည့်ထားပါသည်)
-CMD ["python", "kok9.py"]
+CMD ["python", "xezon.py"]
